@@ -5,6 +5,8 @@
 body {
   font-weight: 400;
   background-color: #EEEFF4;
+  background: url('../background.png') no-repeat;
+  background-size: cover;
 }
 
 body,
@@ -16,7 +18,7 @@ html,
 }
 
 .navbar {
-  background: #1833FF !important;
+  /* background: #1833FF !important; */
   width: 100%;
 }
 

@@ -1,6 +1,8 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+<nav class="navbar navbar-expand-lg navbar-dark bg-secondary fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="#">PHP User Auth System</a>
+        <a class="navbar-brand" href="#">
+            <img src="logo.png" alt="Logo" width="50px">
+            PHP User Auth System</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02"
             aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
